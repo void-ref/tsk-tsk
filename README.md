@@ -1,2 +1,3 @@
 # tsk-tsk
-Ergonomic tasks library powered by FreeRTOS
+
+Ergonomic tasks library powered by FreeRTOS. Currently underdeveloped.

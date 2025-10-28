@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "tsk-tsk",
+    "authors": [
+        {
+            "name": "Mitchell Matsumori-Kelly",
+            "maintainer": true,
+            "url": "https://github.com/void-ref"
+        }
+    ],
+    "version": "0.1.0",
+    "frameworks": [
+        "Arduino"
+    ],
+    "platforms": [
+        "espressif32"
+    ],
+    "homepage": "https://github.com/void-ref/tsk-tsk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/void-ref/tsk-tsk"
+    },
+    "headers": [
+        "lvglue.h"
+    ]
+}
